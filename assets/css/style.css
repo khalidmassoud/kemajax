@@ -1,0 +1,11 @@
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+#gifs-appear-here{
+  float: left;
+  margin: 10px;
+
+}
